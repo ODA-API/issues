@@ -1,4 +1,4 @@
-# On Demand Accessibility API
+# On Demand Accessibility API Feedback
 This repository acts as a public feedback/bug tracker for ODA API (www.oda-api.com).
 
 There are only a few rules for creating issues here:
