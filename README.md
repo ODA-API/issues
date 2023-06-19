@@ -10,6 +10,6 @@ What you should report here:
 - Bugs
 - Improvement Ideas
 - New Feature Ideas
-- Documentation Updates
+- Documentation Questions/Suggestions
 
 Our goal is to provide (in the very least) an acknowledgement of each new issue created.  However, timelines for when anything will be fixed or updated will not be mentioned until it is a certainty.
